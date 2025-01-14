@@ -1,6 +1,14 @@
 # NLP-Natural-Language-Processing
 
-Code diatas merupakan implementasi untuk melakukan web scraping data ulasan aplikasi Grab dari Google Play Store, melakukan preprocessing pada data ulasan tersebut, memberikan label sentimen pada setiap ulasan, melakukan analisis TF-IDF untuk representasi teks, serta mengaplikasikan algoritma Naive Bayes untuk klasifikasi sentimen. Berikut adalah interpretasi dari setiap bagian kode:
+Code diatas merupakan implementasi untuk melakukan web scraping data ulasan aplikasi Grab dari Google Play Store, melakukan preprocessing pada data ulasan tersebut, memberikan label sentimen pada setiap ulasan, melakukan analisis TF-IDF untuk representasi teks, serta mengaplikasikan algoritma Naive Bayes untuk klasifikasi sentimen. 
+
+Berikut link PPT: 
+https://www.canva.com/design/DAGcLsTA5-g/odQneeK4S6NRtP_6xFFWpg/view?utm_content=DAGcLsTA5-g&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5e70aadacd
+
+Untuk keterangan lebih jelasnya dapat dilihat pada link berikut: 
+https://drive.google.com/file/d/1N-YtII_aGDfXYQNEj0Lp0Et_kPV-fE4T/view?usp=sharing
+
+Berikut adalah interpretasi dari setiap bagian kode:
 
 ## Web Scraping:
 
